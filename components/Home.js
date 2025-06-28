@@ -12,6 +12,7 @@ function Home() {
             <li>Scannez le QR Code</li>
             <li>Testez l'application !!</li>
         </ol>
+        <p>By <strong>Farid ADINANI</strong></p>
     </main>
     </div>
   );
